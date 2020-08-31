@@ -1,0 +1,55 @@
+cadi,pub,paper,lumi,category,name,model,comment,finalstate,parameter,lower,upper,flag
+B2G-18-002,1906.05977,,77.3,DIB,VVah,$\mathrm{W'} \to \mathrm{WZ} \to q\bar{q} q\bar{q}$,HVT model B,q\bar{q} q\bar{q},$M_{\mathrm{W}^\prime}$,0,3.80,1
+B2G-17-005,1803.03838,10.1007/JHEP07(2018)075,35.9,DIB,VZnn,$\mathrm{W'} \to \mathrm{WZ} \to \nu\nu q\bar{q}$,HVT model B,\nu\nu q\bar{q},$M_{\mathrm{W}^\prime}$,0,3.40,1
+B2G-16-029,1802.09407,10.1007/JHEP05(2018)088,35.9,DIB,VWln,$\mathrm{W'} \to \mathrm{WZ} \to \ell\nu q\bar{q}$,HVT model B,\ell\nu q\bar{q},$M_{\mathrm{W}^\prime}$,0,3.00,1
+B2G-17-013,1803.10093,10.1007/JHEP09(2018)101,35.9,DIB,VZll,$\mathrm{W'} \to \mathrm{WZ} \to \ell\ell q\bar{q}$,HVT model B,\ell\ell q\bar{q},$M_{\mathrm{W}^\prime}$,0,2.70,1
+B2G-17-002,1707.01303,10.1140/epjc/s10052-017-5192-z,35.9,DIB,VHah,$\mathrm{W'} \to \mathrm{WH} \to q\bar{q} b\bar{b}$,HVT model B,q\bar{q} b\bar{b},$M_{\mathrm{W}^\prime}$,0,3.15,1
+B2G-17-004,1807.02826,10.1007/JHEP11(2018)172,35.9,DIB,WHln,$\mathrm{W'} \to \mathrm{WH} \to \ell\nu b\bar{b}$,HVT model B,\ell\nu b\bar{b},$M_{\mathrm{W}^\prime}$,0,2.80,1
+B2G-17-006,1808.01365,10.1007/JHEP01(2019)051,35.9,DIB,ZHtt,$\mathrm{W'} \to \mathrm{WH} \to q\bar{q} \tau\tau$,HVT model B,q\bar{q} \tau\tau,$M_{\mathrm{W}^\prime}$,0,2.60,1
+B2G-18-006,1906.00057,,35.9,DIB,Combi,W' combination (2016),HVT model B,"all\,final\,states",$M_{\mathrm{W}^\prime}$,0,4.30,1
+B2G-18-002,1906.05977,,77.3,DIB,VVah,$\mathrm{Z'} \to \mathrm{WW} \to q\bar{q} q\bar{q}$,HVT model B,q\bar{q} q\bar{q},$M_{\mathrm{Z}^\prime}$,0,3.50,1
+B2G-17-002,1707.01303,10.1140/epjc/s10052-017-5192-z,35.9,DIB,VHah,$\mathrm{Z'} \to \mathrm{ZH} \to q\bar{q} b\bar{b}$,HVT model B,q\bar{q} b\bar{b},$M_{\mathrm{Z}^\prime}$,0,2.30,1
+B2G-17-004,1807.02826,10.1007/JHEP11(2018)172,35.9,DIB,ZHnn,$\mathrm{Z'} \to \mathrm{ZH} \to \nu\nu b\bar{b}$,HVT model B,\nu\nu b\bar{b},$M_{\mathrm{Z}^\prime}$,0,2.10,1
+B2G-17-004,1807.02826,10.1007/JHEP11(2018)172,35.9,DIB,ZHll,$\mathrm{Z'} \to \mathrm{ZH} \to \ell\ell b\bar{b}$,HVT model B,\ell\ell b\bar{b},$M_{\mathrm{Z}^\prime}$,0,2.40,1
+B2G-17-006,1808.01365,10.1007/JHEP01(2019)051,35.9,DIB,WHtt,$\mathrm{Z'} \to \mathrm{ZH} \to q\bar{q} \tau\tau$,HVT model B,q\bar{q} \tau\tau,$M_{\mathrm{Z}^\prime}$,0,1.80,1
+B2G-18-006,1906.00057,,35.9,DIB,Combi,Z' combination (2016),HVT model B,"all\,final\,states",$M_{\mathrm{Z}^\prime}$,0,3.70,1
+B2G-17-002,1707.01303,10.1140/epjc/s10052-017-5192-z,35.9,DIB,VHah,$\mathrm{V'} \to \mathrm{VH} \to q\bar{q} b\bar{b}$,HVT model B,q\bar{q} b\bar{b},$M_{\mathrm{V}^\prime}$,0,3.30,1
+B2G-17-004,1807.02826,10.1007/JHEP11(2018)172,35.9,DIB,VHsl,"$\mathrm{V'} \to \mathrm{VH} \to (\nu\nu, \ell\nu, \ell\ell) b\bar{b}$",HVT model B,"(\nu\nu, \ell\nu, \ell\ell) b\bar{b}",$M_{\mathrm{V}^\prime}$,0,2.90,1
+B2G-17-006,1808.01365,10.1007/JHEP01(2019)051,35.9,DIB,VHtt,$\mathrm{V'} \to \mathrm{VH} \to q\bar{q} \tau\tau$,HVT model B,q\bar{q} \tau\tau,$M_{\mathrm{V}^\prime}$,0,2.80,1
+B2G-18-006,1906.00057,,35.9,DIB,Combi,V' combination (2016),HVT model B,"all\,final\,states",$M_{\mathrm{V}^\prime}$,0,4.50,1
+B2G-16-029,1802.09407,10.1007/JHEP05(2018)088,35.9,DIB,VWln,$\mathrm{G} \to \mathrm{WW} \to \ell\nu q\bar{q}$,"Bulk $\mathrm{G}, k/\overline{M}_{\mathrm{Pl}} = 0.5$",\ell\nu q\bar{q},$M_{\mathrm{G}}$,0,1.07,1
+B2G-16-023,1711.0437,10.1007/JHEP03(2018)003,35.9,DIB,ZZal,$\mathrm{G} \to \mathrm{ZZ} \to \ell\ell\nu\nu$,"Bulk $\mathrm{G}, k/\overline{M}_{\mathrm{Pl}} = 0.5$",\ell\ell \nu\nu,$M_{\mathrm{G}}$,0,0.82,1
+B2G-18-006,1906.00057,,35.9,DIB,Combi,G combination (2016),"Bulk $\mathrm{G}, k/\overline{M}_{\mathrm{Pl}} = 0.5$","all\,final\,states",$M_{\mathrm{G}}$,0,0.85,1
+B2G-17-006,1808.01365,10.1007/JHEP01(2019)051,35.9,DIB,HHtt,$\mathrm{R} \to \mathrm{HH} \to q\bar{q} \tau\tau$,"Radion, $\Lambda=1 TeV$",q\bar{q} \tau\tau,$M_{\mathrm{R}}$,0,2.70,1
+B2G-17-019,1808.01473,10.1007/JHEP01(2019)040,35.9,DIB,HH4b,$\mathrm{R} \to \mathrm{HH} \to b\bar{b} b\bar{b}$,"Radion, $\Lambda=3 TeV$",b\bar{b} b\bar{b},$M_{\mathrm{R}}$,0,1.50,1
+B2G-18-008,1904.04193,,35.9,DIB,HHlnqqbb,$\mathrm{R} \to \mathrm{HH} \to \ell\nu q\bar{q} b\bar{b}$,"Radion, $\Lambda=3 TeV$",\ell\nu q\bar{q} b\bar{b},$M_{\mathrm{R}}$,0,1.20,1
+,,,,,,,,,,,,
+B2G-17-017,1810.05905,10.1007/JHEP04(2019)031,35.9,RES,Ztt_1,$\mathrm{Z'} \to t\bar{t}$,"B($\mathrm{Z'}\to t\bar{t}$)=100%, $\Gamma/M_\mathrm{Z'}$=1%","all\,final\,states",$M_{\mathrm{Z}^\prime}$,0,3.80,1
+B2G-17-017,1810.05905,10.1007/JHEP04(2019)031,35.9,RES,Ztt_10,$\mathrm{Z'} \to t\bar{t}$,"B($\mathrm{Z'}\to t\bar{t}$)=100%, $\Gamma/M_\mathrm{Z'}$=10%","all\,final\,states",$M_{\mathrm{Z}^\prime}$,0,5.20,1
+B2G-17-017,1810.05905,10.1007/JHEP04(2019)031,35.9,RES,Ztt_30,$\mathrm{Z'} \to t\bar{t}$,"B($\mathrm{Z'}\to t\bar{t}$)=100%, $\Gamma/M_\mathrm{Z'}$=30%","all\,final\,states",$M_{\mathrm{Z}^\prime}$,0,6.60,1
+B2G-17-017,1810.05905,10.1007/JHEP04(2019)031,35.9,RES,gKKtt,$\mathrm{G_{KK}} \to t\bar{t}$,Kaluza-Klein $G_\mathrm{KK}$,"all\,final\,states",$M_{\mathrm{G}}$,0,4.50,1
+B2G-17-010,1708.08539,10.1016/j.physletb.2017.12.006,35.9,RES,Wtb,$\mathrm{W'} \to tb \to bb\ell\nu$,"$M_{W'} < M_{\nu_R}$, right-handed W",bb\ell\nu,$M_{\mathrm{W}^\prime_R}$,0,3.60,1
+B2G-17-015,1812.06489,10.1140/epjc/s10052-019-6688-5,35.9,RES,ZtTtXt,"$\mathrm{Z'} \to tT \to (tZt, tHt) \to \ell\nu+jets$",B($T\to tZ$)=B($T\to tH$)=50%,\ell\nu+jets,$M_{\mathrm{Z}^\prime}$,0,2.30,1
+B2G-18-001,1811.0701,10.1007/JHEP03(2019)127,35.9,RES,WbTtB,"$\mathrm{W'} \to (tB, bT) \to tHb \to b q\bar{q} b\bar{b} b$",B($\mathrm{W'}\to bT$)=100%,b q\bar{q} b\bar{b} b,$M_{\mathrm{W}^\prime}$,0,1.60,1
+B2G-16-027,1809.05558,10.1103/PhysRevLett.121.241802,35.9,RES,LQtmu,$\mathrm{LQLQ} \to t\mu t\mu \to \mu^+ \mu^- b+jets$,B($\mathrm{LQ}\to t\mu$)=100%,\mu^+ \mu^- b+jets,$M_{\mathrm{LQ}}$,0,1.50,1
+B2G-16-028,1803.02864,10.1140/epjc/s10052-018-6143-z,35.9,RES,LQttau,$\mathrm{LQLQ} \to t\tau t\tau \to \ell t \tau+jets$,B($\mathrm{LQ}\to t\tau$)=100%,\ell t \tau+jets,$M_{\mathrm{LQ}}$,0,0.90,1
+B2G-16-027,1809.05558,10.1103/PhysRevLett.121.241802,35.9,RES,LQbnu,$\mathrm{LQLQ} \to b\nu b\nu \to \mu^+ \mu^- b+jets$,B($\mathrm{LQ}\to b\nu$)=100%,\mu^+ \mu^- b+jets,$M_{\mathrm{LQ}}$,0,1.10,1
+B2G-16-025,1711.10949,10.1016/j.physletb.2018.01.049,35.9,RES,Tstar,$\mathrm{t}^* \bar{t}^* \to tg tg \to \ell\nu b\bar{b}+jets$,B($t^* \to tg$)=100%,\ell\nu b\bar{b}+jets,$M_{\mathrm{t^*}}$,0,1.20,1
+,,,,,,,,,,,,
+B2G-17-003,1710.01539,10.1016/j.physletb.2018.01.077,35.9,VHF,YYbWbW,$\mathrm{YY} \to \mathrm{bWbW} \to \ell\nu q\bar{q}q\bar{q}$,B(Y$\to$bW)=100%,\ell\nu q\bar{q}q\bar{q},$M_{\mathrm{Y}}$,0,1.30,1
+B2G-17-003,1710.01539,10.1016/j.physletb.2018.01.077,35.9,VHF,TTbWbW,$\mathrm{TT} \to \mathrm{bWbW} \to \ell\nu q\bar{q}q\bar{q}$,B(T$\to$bW)=100%,\ell\nu q\bar{q}q\bar{q},$M_{\mathrm{T}}$,0,1.30,1
+B2G-17-011,1805.04758,10.1007/JHEP08(2018)177,35.9,VHF,TTtZtZ,"$\mathrm{TT} \to \mathrm{tZtZ} \to (\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets$",B(T$\to$tZ)=100%,"(\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets",$M_{\mathrm{T}}$,0,1.30,1
+B2G-18-005,1906.00057,,35.9,VHF,TTtHtH,$\mathrm{TT} \to \mathrm{tHtH} \to b q\bar{q}b\bar{b} b q\bar{q}b\bar{b}$,B(T$\to$tH)=100%,b q\bar{q}b\bar{b} b q\bar{q}b\bar{b},$M_{\mathrm{T}}$,0,1.37,1
+B2G-17-011,1805.04758,10.1007/JHEP08(2018)177,35.9,VHF,TTsinglet,"$\mathrm{TT} \to (\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets$",TT singlet,"(\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets",$M_{\mathrm{T}}$,0,1.20,1
+B2G-17-011,1805.04758,10.1007/JHEP08(2018)177,35.9,VHF,TTdoublet,"$\mathrm{TT} \to (\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets$",TT doublet,"(\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets",$M_{\mathrm{T}}$,0,1.28,1
+B2G-17-011,1805.04758,10.1007/JHEP08(2018)177,35.9,VHF,BBtWtW,"$\mathrm{BB} \to \mathrm{tWtW} \to (\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets$",B(B$\to$tW)=100%,"(\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets",$M_{\mathrm{B}}$,0,1.24,1
+B2G-18-005,1906.00057,,35.9,VHF,BBbZbZ,$\mathrm{BB} \to \mathrm{bZbZ} \to b q\bar{q} b q\bar{q}$,B(B$\to$tZ)=100%,b q\bar{q} b q\bar{q},$M_{\mathrm{B}}$,0,1.07,1
+B2G-17-012,1812.09768,10.1140/epjc/s10052-019-6855-8,35.9,VHF,BBbHbH,$\mathrm{BB} \to \mathrm{bHbH}$,B(B$\to$bH)=100%,\ell^+ \ell^- +jets,$M_{\mathrm{B}}$,0,1.13,1
+B2G-17-011,1805.04758,10.1007/JHEP08(2018)177,35.9,VHF,BBsinglet,"$\mathrm{BB} \to (\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets$",BB singlet,"(\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets",$M_{\mathrm{B}}$,0,1.17,1
+B2G-17-011,1805.04758,10.1007/JHEP08(2018)177,35.9,VHF,BBdoublet,"$\mathrm{BB} \to (\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets$",BB doublet,"(\ell^\pm, \ell^\pm \ell^\pm, \ell^\pm \ell^\pm \ell^\mp)+jets",$M_{\mathrm{B}}$,0,0.94,1
+B2G-17-014,1810.03188,10.1007/JHEP03(2019)082,35.9,VHF,X53RH,"$\mathrm{X_{5/3} X_{5/3}} \to \mathrm{tWtW} \to (\ell^\pm, \ell^\pm \ell^\pm)+jets$","B($\mathrm{X_{5/3}}\to$tW)=100%, RH","(\ell^\pm, \ell^\pm \ell^\pm)+jets",$M_{\mathrm{X_{5/3}}}$,0,1.33,1
+B2G-17-014,1810.03188,10.1007/JHEP03(2019)082,35.9,VHF,X53LH,"$\mathrm{X_{5/3} X_{5/3}} \to \mathrm{tWtW} \to (\ell^\pm, \ell^\pm \ell^\pm)+jets$","B($\mathrm{X_{5/3}}\to$tW)=100%, LH","(\ell^\pm, \ell^\pm \ell^\pm)+jets",$M_{\mathrm{X_{5/3}}}$,0,1.30,1
+B2G-17-007,1708.01062,10.1016/j.physletb.2018.04.036,35.9,VHF,TtZRH,$\mathrm{T_{RH}} \to \mathrm{tZ} \to bq\bar{q}\ell^+ \ell^-$,narrow T,bq\bar{q}\ell^+ \ell^-,$M_{\mathrm{T_{RH}}}$,0,1.70,1
+B2G-17-007,1708.01062,10.1016/j.physletb.2018.04.036,35.9,VHF,TtZLH,$\mathrm{bT_{LH}} \to \mathrm{btZ} \to b bq\bar{q}\ell^+ \ell^-$,narrow T,bbq\bar{q}\ell^+ \ell^-,$M_{\mathrm{T_{LH}}}$,0,1.20,1
+B2G-17-009,1802.01486,10.1007/JHEP06(2018)031,35.9,VHF,BbH,$\mathrm{B} \to \mathrm{bH} \to b\bar{b}b$,narrow B,b\bar{b}b,$M_{\mathrm{B}}$,0,1.80,1
+B2G-17-018,1809.08597,10.1140/epjc/s10052-019-6556-3,35.9,VHF,BtW,$\mathrm{B} \to \mathrm{tW} \to \ell\nu+jets$,narrow B,\ell\nu+jets,$M_{\mathrm{B}}$,0,1.70,1
